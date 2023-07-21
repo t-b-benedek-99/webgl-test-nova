@@ -1,4 +1,4 @@
-var myProjectName = "cet";
+var myProjectName = "novakid";
 var spinnerLoaderForMenu = document.getElementById("theSpinnerLoaderForMenu");
 var spinnerLoader = document.getElementById("theSpinnerLoader");
 let bookListHtmlItem = document.getElementById("book-list");
